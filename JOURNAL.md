@@ -49,3 +49,27 @@ I did the schematic. It’s quite simple; I just followed the datasheet. I still
 [img2](https://cdn.hackclub.com/019e3544-f91c-7525-824a-1e7172dda40d/image.png)
 
 **Total time spent: 0.5h**
+
+# May 26, 2026: SD Card and cleaning stuff.
+
+I forgot to journal a few times, so this actually covers a few days of work.
+
+First, I spent about an hour trying to clean up the schematic. It’s pretty clean now.
+
+[before](https://cdn.hackclub.com/019e3544-f91c-7525-824a-1e7172dda40d/image.png)
+(before)
+
+[after](https://cdn.hackclub.com/019e6441-ba3d-7dfe-95d2-cebad5ec0622/image.png)
+(after)
+
+Then, I spent around 1.5 hours fixing a few things @cyao said were wrong, like some issues in the power section and the display. They should be correct now. I really hope they are.
+
+[Power](https://cdn.hackclub.com/019e6445-0301-7cf0-acbb-1ee00ad5b43b/image.png)
+[Display](https://cdn.hackclub.com/019e6445-7c39-7a2a-9da8-4fd0e1351dec/image.png)
+
+After that, I spent another 1.5 hours adding the SD card. I think it’s correct, but I’m not fully sure yet, so I’m going to ask a few people.
+
+[SD Card](https://cdn.hackclub.com/019e6444-b869-7161-a898-baa041f2ace9/image.png)
+
+
+**Total time spent: 4h**
