@@ -3,4 +3,5 @@
   (lib (name "symbols")(type "KiCad")(uri "${KIPRJMOD}/symbols.kicad_sym")(options "")(descr ""))
   (lib (name "CS43131-CNZR")(type "KiCad")(uri "${KIPRJMOD}/CS43131-CNZR.kicad_sym")(options "")(descr ""))
   (lib (name "TAD5242")(type "KiCad")(uri "${KIPRJMOD}/TAD5242.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS63070RNMR")(type "KiCad")(uri "${KIPRJMOD}/TPS63070RNMR/TPS63070RNMR.kicad_sym")(options "")(descr ""))
 )

@@ -1,22 +1,9 @@
 ---
 ## Name: 
 ### Flac Player
+## Total time spent:
+### 
 ---
----
-Template:
-
-# May 4th, 2026: Got the screen to work!
-
-[your actual journal entry!]
-
-[A picture or two of what you did!]
-
-**Total time spent: 2h**
----
-
-
-
-
 
 # May 13, 2026: Researched and started making the schematic!
 
@@ -71,5 +58,16 @@ After that, I spent another 1.5 hours adding the SD card. I think it’s correct
 
 [SD Card](https://cdn.hackclub.com/019e6444-b869-7161-a898-baa041f2ace9/image.png)
 
-
 **Total time spent: 4h**
+
+# May 29, 2026: Clean up schematic and change stuff based on feedback.
+This is a bit of a shorter one since I mostly changed the capacitors and resistors to make things cleaner. Now it looks better, I think. I was a bit careless with how I organized it before, and it’s improved now.
+
+I also looked into buck-boost converters because I think I might need one. I’m not sure though, so let me know if you think I do.
+
+[Schem now // P1](https://cdn.hackclub.com/019e7375-796a-7bd2-8087-80ab6b6e0862/image.png)
+[Schem now // P2](https://cdn.hackclub.com/019e7375-7c94-7d39-a187-ef37a2e61f08/image.png)
+
+As you can see, I’ve changed those horrendous values inside the components.
+
+**Total time spent: 1h**
