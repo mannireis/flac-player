@@ -71,3 +71,19 @@ I also looked into buck-boost converters because I think I might need one. I’m
 As you can see, I’ve changed those horrendous values inside the components.
 
 **Total time spent: 1h**
+
+# May 29, 2026: Fix stuff based on feedback.
+
+I feel like I’ve been under-journaling my time, but now I added feedback based on what @cyao said, and I also fixed some stuff Redditors told me to. Now I’m missing a power latch, and then I can move over to the PCB!
+
+I also worked a bit on researching parts. I already decided on these parts:
+
+- SD card holder: Hirose DM3AT
+- USB-C: HCTL HC TYPE C 16P 01A
+- 0603 capacitors and resistors
+
+The hardest part of this was fixing the stuff because I’m really dumb :pensive-wobble:
+
+[Fixed schematic](https://cdn.hackclub.com/019e7f13-158c-77f1-a420-a455153c5a0e/image.png)
+
+**Total time spent: 3h**
