@@ -72,7 +72,7 @@ As you can see, I’ve changed those horrendous values inside the components.
 
 **Total time spent: 1h**
 
-# May 29, 2026: Fix stuff based on feedback.
+# May 31, 2026: Fix stuff based on feedback.
 
 I feel like I’ve been under-journaling my time, but now I added feedback based on what @cyao said, and I also fixed some stuff Redditors told me to. Now I’m missing a power latch, and then I can move over to the PCB!
 
