@@ -49,16 +49,16 @@ First, I spent about an hour trying to clean up the schematic. It’s pretty cle
 [after](https://cdn.hackclub.com/019e6441-ba3d-7dfe-95d2-cebad5ec0622/image.png)
 (after)
 
-Then, I spent around 1.5 hours fixing a few things @cyao said were wrong, like some issues in the power section and the display. They should be correct now. I really hope they are.
+Then, I spent around 1.4 hours fixing a few things @cyao said were wrong, like some issues in the power section and the display. They should be correct now. I really hope they are.
 
 [Power](https://cdn.hackclub.com/019e6445-0301-7cf0-acbb-1ee00ad5b43b/image.png)
 [Display](https://cdn.hackclub.com/019e6445-7c39-7a2a-9da8-4fd0e1351dec/image.png)
 
-After that, I spent another 1.5 hours adding the SD card. I think it’s correct, but I’m not fully sure yet, so I’m going to ask a few people.
+After that, I spent another 1.7 hours adding the SD card. I think it’s correct, but I’m not fully sure yet, so I’m going to ask a few people.
 
 [SD Card](https://cdn.hackclub.com/019e6444-b869-7161-a898-baa041f2ace9/image.png)
 
-**Total time spent: 4h**
+**Total time spent: 4.2h**
 
 # May 29, 2026: Clean up schematic and change stuff based on feedback.
 This is a bit of a shorter one since I mostly changed the capacitors and resistors to make things cleaner. Now it looks better, I think. I was a bit careless with how I organized it before, and it’s improved now.
@@ -70,7 +70,7 @@ I also looked into buck-boost converters because I think I might need one. I’m
 
 As you can see, I’ve changed those horrendous values inside the components.
 
-**Total time spent: 1h**
+**Total time spent: 1.4h**
 
 # May 31, 2026: Fix stuff based on feedback.
 
@@ -86,4 +86,19 @@ The hardest part of this was fixing the stuff because I’m really dumb :pensive
 
 [Fixed schematic](https://cdn.hackclub.com/019e7f13-158c-77f1-a420-a455153c5a0e/image.png)
 
-**Total time spent: 3h**
+**Total time spent: 2.5h**
+
+# May 31, 2026: Make a Press ON - Hold OFF latching circuit
+
+This was really cool.  
+I did a lot of research because this was a bit too complex, but I’m happy with how it ended and I think it’s working.
+
+This was really hard, but I learned quite a lot from it. I also originally went with different latch systems, but I ended up on this one and it’s really good :3
+
+## Latching Circuit
+
+[Latching Circuit](https://cdn.hackclub.com/019e7f13-158c-77f1-a420-a455153c5a0e/image.png)
+
+Thank you [Mosaic Industries](http://www.mosaic-industries.com/embedded-systems/microcontroller-projects/electronic-circuits/push-button-switch-turn-on/latching-toggle-power-switch)! You saved me <3
+
+**Total time spent: 1.2h**
