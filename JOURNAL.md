@@ -35,7 +35,7 @@ I did the schematic. It’s quite simple; I just followed the datasheet. I still
 
 [img2](https://cdn.hackclub.com/019e3544-f91c-7525-824a-1e7172dda40d/image.png)
 
-**Total time spent: 0.5h**
+**Total time spent: 1.5h**
 
 # May 26, 2026: SD Card and cleaning stuff.
 
