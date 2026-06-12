@@ -1,1 +1,2 @@
-https://mauser.pt/035-4660/bateria-3-7v-1900mah-li-po-35x68x5-5mm
+- https://mauser.pt/035-4660/bateria-3-7v-1900mah-li-po-35x68x5-5mm
+- https://pt.aliexpress.com/item/1005001839298038.html?spm=a2g0o.productlist.main.5.657fbJDkbJDk3E&algo_pvid=e70ba32a-923a-4b50-896b-170b1ad4dba9&algo_exp_id=e70ba32a-923a-4b50-896b-170b1ad4dba9-4&pdp_ext_f=%7B%22order%22%3A%22116%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%219.59%219.59%21%21%2110.91%2110.91%21%40211b815c17802561991122733e56aa%2112000021084580452%21sea%21PT%216399289739%21X%211%210%21n_tag%3A-29919%3Bd%3Ab665298d%3Bm03_new_user%3A-29895&curPageLogUid=0fUVp3hPHwR3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005001839298038%7C_p_origin_prod%3A

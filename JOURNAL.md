@@ -102,3 +102,32 @@ This was really hard, but I learned quite a lot from it. I also originally went 
 Thank you [Mosaic Industries](http://www.mosaic-industries.com/embedded-systems/microcontroller-projects/electronic-circuits/push-button-switch-turn-on/latching-toggle-power-switch)! You saved me <3
 
 **Total time spent: 1.2h**
+
+# June 10 to June 11, 2026: Restart making everything!
+
+- Remade all off the MP3 player because the old schematic was really messy and pretty bad.
+
+[Full Schematic](https://user-cdn.hackclub-assets.com/019eb7c4-259b-7b8a-ac0a-f55e3072166a/image.png)
+
+- Decide to use a STM32 instead of the ESP32 because I think power efficiency is more inportant than wireless since I won't use wireless since wired headphones are better I'm using the STM32H753.
+
+[STM32](https://user-cdn.hackclub-assets.com/019eb7c4-2339-79e8-b939-5ae69eb19fce/image.png)
+[Decoupling Capacitors](https://user-cdn.hackclub-assets.com/019eb7c4-2110-7cd0-9484-cc088802a43f/image.png)
+
+- Remake the DAC and AMP I decided on using the same as I was before But this time I actually made it good and clean:
+
+[DAC and AMP](https://user-cdn.hackclub-assets.com/019eb7c4-1d44-7f8c-a4b1-e0296b198cbc/image.png)
+
+- Add the LDO decided on the LDO from mitxela since I was seeing the projects he made and in one of their projects he used the one I'm using and said it was good so I researched it and it seemed good for what I needed.
+
+[Power thingys](https://user-cdn.hackclub-assets.com/019eb7c4-0db2-74eb-aee0-09cdac440e2b/image.png)
+
+- Added the USB-C and ESD Protection using the ST guidlines for the STM32's.
+
+[USB](https://user-cdn.hackclub-assets.com/019eb7c4-1b1b-78c5-99b6-940c993fcaf2/image.png)
+
+
+The hardest part of this was researching what chips and IC's to use but this helped me get started for more projects since now I know many more IC's and Chips that I can use in other projects!
+
+(I hope this journal is good)
+**Total time spent: 4.2h**
