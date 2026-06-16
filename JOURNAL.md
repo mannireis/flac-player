@@ -131,3 +131,13 @@ The hardest part of this was researching what chips and IC's to use but this hel
 
 (I hope this journal is good)
 **Total time spent: 4.2h**
+
+# June 16, 2026: Add a 6 axis accelerometer + research and thinking.
+
+I added a accelerometer yay. I searched a bit (very little) on what accelerometer to use and decided on the MPU-6050 since it has a gyroscope and a accelerometer built in and is pretty useful then I read the datasheet to see what decoupling capacitors to use since it had an application segment and then I added the capacitors.
+
+[Finished MPU-6050](https://cdn.hackclub.com/019ed05a-5f1c-7c71-a7e2-e0fa20b77c47/image.png)
+
+I also did a bit of research and thinking on how to make the shape and stuff but I'm still not sure how I want it to be.
+
+**Total time spent: 1.3h**
