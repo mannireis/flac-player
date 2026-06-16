@@ -141,3 +141,12 @@ I added a accelerometer yay. I searched a bit (very little) on what acceleromete
 I also did a bit of research and thinking on how to make the shape and stuff but I'm still not sure how I want it to be.
 
 **Total time spent: 1.3h**
+
+
+# June 16, 2026: E-Paper display !!!!
+
+I added the E-Paper display again yay It took some time to find a good refrance but then I remembered that waveshare has a good one so I just copied that and made it work for me now I'm only missing the buttons and connecting everything to the correct gpio yay!
+
+[E-Paper Display !!!!](https://cdn.hackclub.com/019ed087-1905-7885-a380-cc256e62f019/image.png)
+
+**Total time spent: 0.6h**
