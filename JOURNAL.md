@@ -147,6 +147,8 @@ I also did a bit of research and thinking on how to make the shape and stuff but
 
 I added the E-Paper display again yay It took some time to find a good refrance but then I remembered that waveshare has a good one so I just copied that and made it work for me now I'm only missing the buttons and connecting everything to the correct gpio yay!
 
-[E-Paper Display !!!!](https://cdn.hackclub.com/019ed087-1905-7885-a380-cc256e62f019/image.png)
+I forgot about one part and then I added it!
 
-**Total time spent: 0.6h**
+[E-Paper Display !!!!](https://cdn.hackclub.com/019ed119-e5d4-7b81-9bbd-1ea67cba33ae/image.png)
+
+**Total time spent: 1h**
